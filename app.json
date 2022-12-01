@@ -1,0 +1,31 @@
+{
+  
+  "expo": {
+    "name": "Latest Hindi Shayaries 2022",
+    "slug": "Shayari_App",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+   
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./Images/Main_Icon.png",
+    "splash": {
+      "image": "./Images/Icon.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package":"com.Shayari_App.Developer",
+      "versionCode":1
+    }
+  }
+}
